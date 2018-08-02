@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Component\Finery.cs" />
+    <Compile Include="Component\Person.cs" />
+    <Compile Include="Concrete\BigTrousers.cs" />
+    <Compile Include="Concrete\Snearkers.cs" />
+    <Compile Include="Concrete\TShirt.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
