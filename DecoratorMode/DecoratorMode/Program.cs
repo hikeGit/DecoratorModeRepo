@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//需要实现不同的功能，各功能之间毫无联系，功能的实现顺序与装饰的顺序有关
 namespace DecoratorMode
 {
     class Program
